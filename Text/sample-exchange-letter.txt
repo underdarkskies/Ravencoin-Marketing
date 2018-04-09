@@ -1,0 +1,22 @@
+Hi <Exchange>, my name is <Name> and I’m a member of the Ravencoin Community, whom I’m writing on behalf of.
+
+We’re hoping to get Ravencoin (RVN) listed on the <Exchange> exchange and wanted to tell you a little about what it is and why it belongs here.
+
+Ravencoin is a blockchain and a platform optimized for transferring assets such as other tokens from one owner to another. It’s built on a fork of the Bitcoin code (not the blockchain) with a few key differences, for instance the block reward time is reduced to one minute, the total number of coins that will ever be issued is 21 billion and the upcoming addition of asset creation and messaging capabilities.
+
+Most importantly, all Ravencoin tokens are fairly issued and mined publicly, with no pre-mine whatsoever. It uses the x16r Proof of Work algorithm which was developed specifically for Ravencoin with the intent of making it ASIC resistant. The entire project is completely open source and is run by the community which anyone can be part of.
+
+The first block was mined on the 3rd of January this year and already it has almost 30,000 workers mining it on their GPUs generating a hash rate of over 2.3 TH’s; making Ravencoin arguably the most fairly distributed coin to date.
+A listing on your Exchange would help Ravencoin reach a much wider audience and could also bring with it an average of around 20 to 80 BTC of daily trading volume. Early adoption of Ravencoin by a decentralized exchange helped put the exchange on the map so to speak (daily volume quoted is what we already get on the decentralized exchange).
+
+I’ve listed a few links below to provide more information about Ravencoin. 
+Ravencoin Official Site: https://ravencoin.org/ 
+Statistics: https://rvnstats.info/ 
+White Paper: https://github.com/RavenProject/Ravencoin/tree/master/whitepaper 
+X16 Algo: https://ravencoin.org/wp-content/uploads/2018/03/X16R-Whitepaper.pdf 
+Roadmap: https://github.com/RavenProject/Ravencoin/tree/master/roadmap 
+
+If you have any questions please let me know and I look forward to hearing back from you soon.
+
+Kind Regards,
+<Name>
