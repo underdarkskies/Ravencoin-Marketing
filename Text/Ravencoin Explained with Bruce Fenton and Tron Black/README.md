@@ -1,9 +1,9 @@
 ﻿# Ravencoin Explained with Bruce Fenton and Tron Black
-Posted 4/9/2018 to Etherplan Channel on Youtube.com
-https://www.youtube.com/watch?v=RMjph5Kzlvo
-Transcription by Under
-Minor edits for readability by Under
-
+Posted 4/9/2018 to Etherplan Channel on Youtube.com<br>
+https://www.youtube.com/watch?v=RMjph5Kzlvo<br>
+Transcription by Under<br>
+Minor edits for readability by Under<br>
+<p align="center">
 
 Donald MacIntyre>
 hello I'm Donald MacIntyre founder of
