@@ -3,8 +3,8 @@ Posted 4/9/2018 to Etherplan Channel on Youtube.com<br>
 https://www.youtube.com/watch?v=RMjph5Kzlvo<br>
 Transcription by Under<br>
 Minor edits for readability by Under<br>
-<p align="center">
 
+## Interview
 Donald MacIntyre>
 hello I'm Donald MacIntyre founder of
 Etherplan, this is Etherplan live and
